@@ -1,2 +1,2 @@
-# still4square.com
+# still4square.github.io
 4square club
